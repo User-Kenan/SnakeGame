@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Tom",
+    "Score": 5,
+    "Speed": 2,
+    "FieldWidth": 20,
+    "FieldHeight": 20
+  },
+  {
+    "Name": "Kenan",
+    "Score": 16,
+    "Speed": 5,
+    "FieldWidth": 30,
+    "FieldHeight": 30
+  },
+  {
+    "Name": "Niklas",
+    "Score": 2,
+    "Speed": 4,
+    "FieldWidth": 16,
+    "FieldHeight": 16
+  },
+  {
+    "Name": "Max",
+    "Score": 2,
+    "Speed": 2,
+    "FieldWidth": 20,
+    "FieldHeight": 20
+  },
+  {
+    "Name": "Elias",
+    "Score": 1,
+    "Speed": 7,
+    "FieldWidth": 25,
+    "FieldHeight": 25
+  },
+  {
+    "Name": "Kenan",
+    "Score": 30,
+    "Speed": 3,
+    "FieldWidth": 16,
+    "FieldHeight": 16
+  }
+]
